@@ -12,7 +12,7 @@ module.exports = {
         sidebarDepth: 4, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
         lastUpdated: 'Last Updated' ,// 文档更新时间：每个文件git最后提交的时间,
         // 你的GitHub仓库，请正确填写
-        repo: 'https://github.com/xxxxxxx/blog-demo',
+        repo: 'https://github.com/coder-lzh/blog-demo',
         // 自定义仓库链接文字。
         repoLabel: 'My GitHub',
         nav: [ //上面的导航部分
